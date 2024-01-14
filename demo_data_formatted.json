@@ -1,0 +1,2144 @@
+[
+    {
+        "state_fips": 1,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 64.1,
+        "count": 3220452
+    },
+    {
+        "state_fips": 1,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 25.8,
+        "count": 1296162
+    },
+    {
+        "state_fips": 1,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.7,
+        "count": 33625
+    },
+    {
+        "state_fips": 1,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.5,
+        "count": 76660
+    },
+    {
+        "state_fips": 1,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 2984
+    },
+    {
+        "state_fips": 1,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 2.7,
+        "count": 137443
+    },
+    {
+        "state_fips": 2,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 59.4,
+        "count": 435392
+    },
+    {
+        "state_fips": 2,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 3.0,
+        "count": 21898
+    },
+    {
+        "state_fips": 2,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 15.2,
+        "count": 111575
+    },
+    {
+        "state_fips": 2,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 6.0,
+        "count": 44032
+    },
+    {
+        "state_fips": 2,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 1.7,
+        "count": 12698
+    },
+    {
+        "state_fips": 2,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 2.5,
+        "count": 18272
+    },
+    {
+        "state_fips": 4,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 60.4,
+        "count": 4322337
+    },
+    {
+        "state_fips": 4,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 4.7,
+        "count": 339150
+    },
+    {
+        "state_fips": 4,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 4.5,
+        "count": 319512
+    },
+    {
+        "state_fips": 4,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.6,
+        "count": 257430
+    },
+    {
+        "state_fips": 4,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.2,
+        "count": 16397
+    },
+    {
+        "state_fips": 4,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 12.6,
+        "count": 899870
+    },
+    {
+        "state_fips": 5,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 70.2,
+        "count": 2114512
+    },
+    {
+        "state_fips": 5,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 15.1,
+        "count": 453783
+    },
+    {
+        "state_fips": 5,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.9,
+        "count": 27177
+    },
+    {
+        "state_fips": 5,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.7,
+        "count": 51839
+    },
+    {
+        "state_fips": 5,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.5,
+        "count": 14533
+    },
+    {
+        "state_fips": 5,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 4.5,
+        "count": 136105
+    },
+    {
+        "state_fips": 6,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 41.2,
+        "count": 16296122
+    },
+    {
+        "state_fips": 6,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 5.7,
+        "count": 2237044
+    },
+    {
+        "state_fips": 6,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.6,
+        "count": 631016
+    },
+    {
+        "state_fips": 6,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 15.4,
+        "count": 6085947
+    },
+    {
+        "state_fips": 6,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.4,
+        "count": 157263
+    },
+    {
+        "state_fips": 6,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 21.2,
+        "count": 8370596
+    },
+    {
+        "state_fips": 8,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 70.7,
+        "count": 4082927
+    },
+    {
+        "state_fips": 8,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 4.1,
+        "count": 234828
+    },
+    {
+        "state_fips": 8,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.3,
+        "count": 74129
+    },
+    {
+        "state_fips": 8,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.5,
+        "count": 199827
+    },
+    {
+        "state_fips": 8,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.2,
+        "count": 10287
+    },
+    {
+        "state_fips": 8,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 8.0,
+        "count": 464046
+    },
+    {
+        "state_fips": 9,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 66.4,
+        "count": 2395128
+    },
+    {
+        "state_fips": 9,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 10.8,
+        "count": 388675
+    },
+    {
+        "state_fips": 9,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.4,
+        "count": 16051
+    },
+    {
+        "state_fips": 9,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 4.8,
+        "count": 172455
+    },
+    {
+        "state_fips": 9,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 1598
+    },
+    {
+        "state_fips": 9,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 8.3,
+        "count": 299133
+    },
+    {
+        "state_fips": 10,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 60.4,
+        "count": 597763
+    },
+    {
+        "state_fips": 10,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 22.1,
+        "count": 218899
+    },
+    {
+        "state_fips": 10,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 5148
+    },
+    {
+        "state_fips": 10,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 4.3,
+        "count": 42699
+    },
+    {
+        "state_fips": 10,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 412
+    },
+    {
+        "state_fips": 10,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 4.9,
+        "count": 48509
+    },
+    {
+        "state_fips": 11,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 39.6,
+        "count": 273194
+    },
+    {
+        "state_fips": 11,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 41.4,
+        "count": 285810
+    },
+    {
+        "state_fips": 11,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 3193
+    },
+    {
+        "state_fips": 11,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 4.9,
+        "count": 33545
+    },
+    {
+        "state_fips": 11,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 432
+    },
+    {
+        "state_fips": 11,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.4,
+        "count": 37294
+    },
+    {
+        "state_fips": 12,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 57.7,
+        "count": 12422961
+    },
+    {
+        "state_fips": 12,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 15.1,
+        "count": 3246381
+    },
+    {
+        "state_fips": 12,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.4,
+        "count": 94795
+    },
+    {
+        "state_fips": 12,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.0,
+        "count": 643682
+    },
+    {
+        "state_fips": 12,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 14014
+    },
+    {
+        "state_fips": 12,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 7.3,
+        "count": 1564282
+    },
+    {
+        "state_fips": 13,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 51.9,
+        "count": 5555483
+    },
+    {
+        "state_fips": 13,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 31.0,
+        "count": 3320513
+    },
+    {
+        "state_fips": 13,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 50618
+    },
+    {
+        "state_fips": 13,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 4.5,
+        "count": 479028
+    },
+    {
+        "state_fips": 13,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 7299
+    },
+    {
+        "state_fips": 13,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.2,
+        "count": 555059
+    },
+    {
+        "state_fips": 15,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 22.9,
+        "count": 333261
+    },
+    {
+        "state_fips": 15,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 1.6,
+        "count": 23417
+    },
+    {
+        "state_fips": 15,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.3,
+        "count": 4370
+    },
+    {
+        "state_fips": 15,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 37.2,
+        "count": 541902
+    },
+    {
+        "state_fips": 15,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 10.8,
+        "count": 157445
+    },
+    {
+        "state_fips": 15,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.8,
+        "count": 26747
+    },
+    {
+        "state_fips": 16,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 82.1,
+        "count": 1510360
+    },
+    {
+        "state_fips": 16,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 0.9,
+        "count": 15726
+    },
+    {
+        "state_fips": 16,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.4,
+        "count": 25621
+    },
+    {
+        "state_fips": 16,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.5,
+        "count": 26836
+    },
+    {
+        "state_fips": 16,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.2,
+        "count": 3726
+    },
+    {
+        "state_fips": 16,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.6,
+        "count": 103632
+    },
+    {
+        "state_fips": 17,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 61.4,
+        "count": 7868227
+    },
+    {
+        "state_fips": 17,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 14.1,
+        "count": 1808271
+    },
+    {
+        "state_fips": 17,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.8,
+        "count": 96498
+    },
+    {
+        "state_fips": 17,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 5.9,
+        "count": 754878
+    },
+    {
+        "state_fips": 17,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 4501
+    },
+    {
+        "state_fips": 17,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 8.9,
+        "count": 1135149
+    },
+    {
+        "state_fips": 18,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 77.2,
+        "count": 5241795
+    },
+    {
+        "state_fips": 18,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 9.6,
+        "count": 648513
+    },
+    {
+        "state_fips": 18,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.4,
+        "count": 26086
+    },
+    {
+        "state_fips": 18,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.5,
+        "count": 167959
+    },
+    {
+        "state_fips": 18,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 3137
+    },
+    {
+        "state_fips": 18,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.9,
+        "count": 261312
+    },
+    {
+        "state_fips": 19,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 84.5,
+        "count": 2694521
+    },
+    {
+        "state_fips": 19,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 4.1,
+        "count": 131972
+    },
+    {
+        "state_fips": 19,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 14486
+    },
+    {
+        "state_fips": 19,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.4,
+        "count": 75629
+    },
+    {
+        "state_fips": 19,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.2,
+        "count": 5758
+    },
+    {
+        "state_fips": 19,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 2.8,
+        "count": 88720
+    },
+    {
+        "state_fips": 20,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 75.6,
+        "count": 2222462
+    },
+    {
+        "state_fips": 20,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 5.7,
+        "count": 168809
+    },
+    {
+        "state_fips": 20,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.1,
+        "count": 30995
+    },
+    {
+        "state_fips": 20,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.9,
+        "count": 86273
+    },
+    {
+        "state_fips": 20,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 3412
+    },
+    {
+        "state_fips": 20,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 4.9,
+        "count": 145422
+    },
+    {
+        "state_fips": 21,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 82.4,
+        "count": 3711254
+    },
+    {
+        "state_fips": 21,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 8.0,
+        "count": 362417
+    },
+    {
+        "state_fips": 21,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.3,
+        "count": 12801
+    },
+    {
+        "state_fips": 21,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.7,
+        "count": 74426
+    },
+    {
+        "state_fips": 21,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 3681
+    },
+    {
+        "state_fips": 21,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 2.1,
+        "count": 96417
+    },
+    {
+        "state_fips": 22,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 57.1,
+        "count": 2657652
+    },
+    {
+        "state_fips": 22,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 31.4,
+        "count": 1464023
+    },
+    {
+        "state_fips": 22,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.7,
+        "count": 31657
+    },
+    {
+        "state_fips": 22,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.9,
+        "count": 86438
+    },
+    {
+        "state_fips": 22,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 1911
+    },
+    {
+        "state_fips": 22,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.1,
+        "count": 142699
+    },
+    {
+        "state_fips": 23,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 90.8,
+        "count": 1237041
+    },
+    {
+        "state_fips": 23,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 1.9,
+        "count": 25752
+    },
+    {
+        "state_fips": 23,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.6,
+        "count": 7885
+    },
+    {
+        "state_fips": 23,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.2,
+        "count": 16798
+    },
+    {
+        "state_fips": 23,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 443
+    },
+    {
+        "state_fips": 23,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 0.7,
+        "count": 9730
+    },
+    {
+        "state_fips": 24,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 48.7,
+        "count": 3007874
+    },
+    {
+        "state_fips": 24,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 29.5,
+        "count": 1820472
+    },
+    {
+        "state_fips": 24,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 31845
+    },
+    {
+        "state_fips": 24,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 6.8,
+        "count": 420944
+    },
+    {
+        "state_fips": 24,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 3247
+    },
+    {
+        "state_fips": 24,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 6.7,
+        "count": 410941
+    },
+    {
+        "state_fips": 25,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 69.6,
+        "count": 4896037
+    },
+    {
+        "state_fips": 25,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 7.0,
+        "count": 494029
+    },
+    {
+        "state_fips": 25,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.3,
+        "count": 24018
+    },
+    {
+        "state_fips": 25,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 7.2,
+        "count": 507934
+    },
+    {
+        "state_fips": 25,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 2301
+    },
+    {
+        "state_fips": 25,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 7.1,
+        "count": 496731
+    },
+    {
+        "state_fips": 26,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 73.9,
+        "count": 7444974
+    },
+    {
+        "state_fips": 26,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 13.7,
+        "count": 1376579
+    },
+    {
+        "state_fips": 26,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.6,
+        "count": 61261
+    },
+    {
+        "state_fips": 26,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.3,
+        "count": 334300
+    },
+    {
+        "state_fips": 26,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 3051
+    },
+    {
+        "state_fips": 26,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 2.2,
+        "count": 221851
+    },
+    {
+        "state_fips": 27,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 77.5,
+        "count": 4423146
+    },
+    {
+        "state_fips": 27,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 7.0,
+        "count": 398434
+    },
+    {
+        "state_fips": 27,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.2,
+        "count": 68641
+    },
+    {
+        "state_fips": 27,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 5.2,
+        "count": 299190
+    },
+    {
+        "state_fips": 27,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 2918
+    },
+    {
+        "state_fips": 27,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.0,
+        "count": 168444
+    },
+    {
+        "state_fips": 28,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 56.0,
+        "count": 1658893
+    },
+    {
+        "state_fips": 28,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 36.6,
+        "count": 1084481
+    },
+    {
+        "state_fips": 28,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.6,
+        "count": 16450
+    },
+    {
+        "state_fips": 28,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.1,
+        "count": 32709
+    },
+    {
+        "state_fips": 28,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 1154
+    },
+    {
+        "state_fips": 28,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.9,
+        "count": 56860
+    },
+    {
+        "state_fips": 29,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 77.0,
+        "count": 4740335
+    },
+    {
+        "state_fips": 29,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 11.4,
+        "count": 699840
+    },
+    {
+        "state_fips": 29,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 30518
+    },
+    {
+        "state_fips": 29,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.2,
+        "count": 133377
+    },
+    {
+        "state_fips": 29,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.2,
+        "count": 9730
+    },
+    {
+        "state_fips": 29,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 2.1,
+        "count": 127942
+    },
+    {
+        "state_fips": 30,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 84.5,
+        "count": 916524
+    },
+    {
+        "state_fips": 30,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 0.5,
+        "count": 5484
+    },
+    {
+        "state_fips": 30,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 6.2,
+        "count": 67612
+    },
+    {
+        "state_fips": 30,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 0.8,
+        "count": 8300
+    },
+    {
+        "state_fips": 30,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 941
+    },
+    {
+        "state_fips": 30,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.3,
+        "count": 14089
+    },
+    {
+        "state_fips": 31,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 78.4,
+        "count": 1538052
+    },
+    {
+        "state_fips": 31,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 4.9,
+        "count": 96535
+    },
+    {
+        "state_fips": 31,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.2,
+        "count": 23102
+    },
+    {
+        "state_fips": 31,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.7,
+        "count": 52951
+    },
+    {
+        "state_fips": 31,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 1534
+    },
+    {
+        "state_fips": 31,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.4,
+        "count": 105167
+    },
+    {
+        "state_fips": 32,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 51.2,
+        "count": 1588463
+    },
+    {
+        "state_fips": 32,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 9.8,
+        "count": 304739
+    },
+    {
+        "state_fips": 32,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.4,
+        "count": 43932
+    },
+    {
+        "state_fips": 32,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 8.8,
+        "count": 272703
+    },
+    {
+        "state_fips": 32,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.8,
+        "count": 25011
+    },
+    {
+        "state_fips": 32,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 14.0,
+        "count": 435757
+    },
+    {
+        "state_fips": 33,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 88.3,
+        "count": 1216203
+    },
+    {
+        "state_fips": 33,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 1.5,
+        "count": 20127
+    },
+    {
+        "state_fips": 33,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.2,
+        "count": 3031
+    },
+    {
+        "state_fips": 33,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.6,
+        "count": 35871
+    },
+    {
+        "state_fips": 33,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 453
+    },
+    {
+        "state_fips": 33,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.7,
+        "count": 24102
+    },
+    {
+        "state_fips": 34,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 55.0,
+        "count": 5112280
+    },
+    {
+        "state_fips": 34,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 13.1,
+        "count": 1219770
+    },
+    {
+        "state_fips": 34,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.6,
+        "count": 51186
+    },
+    {
+        "state_fips": 34,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 10.2,
+        "count": 950090
+    },
+    {
+        "state_fips": 34,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 3533
+    },
+    {
+        "state_fips": 34,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 11.3,
+        "count": 1048641
+    },
+    {
+        "state_fips": 35,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 51.0,
+        "count": 1078937
+    },
+    {
+        "state_fips": 35,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 2.2,
+        "count": 45904
+    },
+    {
+        "state_fips": 35,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 10.0,
+        "count": 212241
+    },
+    {
+        "state_fips": 35,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.8,
+        "count": 37469
+    },
+    {
+        "state_fips": 35,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 2093
+    },
+    {
+        "state_fips": 35,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 15.0,
+        "count": 318632
+    },
+    {
+        "state_fips": 36,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 55.2,
+        "count": 11143349
+    },
+    {
+        "state_fips": 36,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 14.8,
+        "count": 2986172
+    },
+    {
+        "state_fips": 36,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.7,
+        "count": 149690
+    },
+    {
+        "state_fips": 36,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 9.6,
+        "count": 1933127
+    },
+    {
+        "state_fips": 36,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 10815
+    },
+    {
+        "state_fips": 36,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 10.9,
+        "count": 2210633
+    },
+    {
+        "state_fips": 37,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 62.2,
+        "count": 6488459
+    },
+    {
+        "state_fips": 37,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 20.5,
+        "count": 2140217
+    },
+    {
+        "state_fips": 37,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.2,
+        "count": 130032
+    },
+    {
+        "state_fips": 37,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.3,
+        "count": 343051
+    },
+    {
+        "state_fips": 37,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 8518
+    },
+    {
+        "state_fips": 37,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.9,
+        "count": 617390
+    },
+    {
+        "state_fips": 38,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 82.9,
+        "count": 645938
+    },
+    {
+        "state_fips": 38,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 3.4,
+        "count": 26783
+    },
+    {
+        "state_fips": 38,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 5.0,
+        "count": 38914
+    },
+    {
+        "state_fips": 38,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.7,
+        "count": 13213
+    },
+    {
+        "state_fips": 38,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 924
+    },
+    {
+        "state_fips": 38,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.5,
+        "count": 11382
+    },
+    {
+        "state_fips": 39,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 77.0,
+        "count": 9080688
+    },
+    {
+        "state_fips": 39,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 12.5,
+        "count": 1478781
+    },
+    {
+        "state_fips": 39,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.3,
+        "count": 30720
+    },
+    {
+        "state_fips": 39,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.5,
+        "count": 298509
+    },
+    {
+        "state_fips": 39,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 5034
+    },
+    {
+        "state_fips": 39,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.9,
+        "count": 224344
+    },
+    {
+        "state_fips": 40,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 63.5,
+        "count": 2514885
+    },
+    {
+        "state_fips": 40,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 7.3,
+        "count": 289961
+    },
+    {
+        "state_fips": 40,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 8.4,
+        "count": 332791
+    },
+    {
+        "state_fips": 40,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.3,
+        "count": 90949
+    },
+    {
+        "state_fips": 40,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.2,
+        "count": 8608
+    },
+    {
+        "state_fips": 40,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.4,
+        "count": 214001
+    },
+    {
+        "state_fips": 41,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 74.8,
+        "count": 3169096
+    },
+    {
+        "state_fips": 41,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 2.0,
+        "count": 82655
+    },
+    {
+        "state_fips": 41,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.5,
+        "count": 62993
+    },
+    {
+        "state_fips": 41,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 4.6,
+        "count": 194538
+    },
+    {
+        "state_fips": 41,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.5,
+        "count": 19204
+    },
+    {
+        "state_fips": 41,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 6.3,
+        "count": 265431
+    },
+    {
+        "state_fips": 42,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 75.0,
+        "count": 9750687
+    },
+    {
+        "state_fips": 42,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 10.9,
+        "count": 1423169
+    },
+    {
+        "state_fips": 42,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.2,
+        "count": 31052
+    },
+    {
+        "state_fips": 42,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.9,
+        "count": 510501
+    },
+    {
+        "state_fips": 42,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 4276
+    },
+    {
+        "state_fips": 42,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.9,
+        "count": 508531
+    },
+    {
+        "state_fips": 44,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 71.3,
+        "count": 782920
+    },
+    {
+        "state_fips": 44,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 5.7,
+        "count": 62168
+    },
+    {
+        "state_fips": 44,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.7,
+        "count": 7385
+    },
+    {
+        "state_fips": 44,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.6,
+        "count": 38961
+    },
+    {
+        "state_fips": 44,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 536
+    },
+    {
+        "state_fips": 44,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 9.4,
+        "count": 103615
+    },
+    {
+        "state_fips": 45,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 63.4,
+        "count": 3243442
+    },
+    {
+        "state_fips": 45,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 25.0,
+        "count": 1280531
+    },
+    {
+        "state_fips": 45,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 24303
+    },
+    {
+        "state_fips": 45,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.8,
+        "count": 90466
+    },
+    {
+        "state_fips": 45,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 3431
+    },
+    {
+        "state_fips": 45,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.5,
+        "count": 177876
+    },
+    {
+        "state_fips": 46,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 80.7,
+        "count": 715336
+    },
+    {
+        "state_fips": 46,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 2.0,
+        "count": 17842
+    },
+    {
+        "state_fips": 46,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 8.8,
+        "count": 77748
+    },
+    {
+        "state_fips": 46,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.5,
+        "count": 13476
+    },
+    {
+        "state_fips": 46,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 543
+    },
+    {
+        "state_fips": 46,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 1.7,
+        "count": 15057
+    },
+    {
+        "state_fips": 47,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 72.2,
+        "count": 4990938
+    },
+    {
+        "state_fips": 47,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 15.8,
+        "count": 1092948
+    },
+    {
+        "state_fips": 47,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.4,
+        "count": 28044
+    },
+    {
+        "state_fips": 47,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.0,
+        "count": 135615
+    },
+    {
+        "state_fips": 47,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 4115
+    },
+    {
+        "state_fips": 47,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.6,
+        "count": 246282
+    },
+    {
+        "state_fips": 48,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 50.1,
+        "count": 14609365
+    },
+    {
+        "state_fips": 48,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 12.2,
+        "count": 3552997
+    },
+    {
+        "state_fips": 48,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.0,
+        "count": 278948
+    },
+    {
+        "state_fips": 48,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 5.4,
+        "count": 1585480
+    },
+    {
+        "state_fips": 48,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 33611
+    },
+    {
+        "state_fips": 48,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 13.6,
+        "count": 3951366
+    },
+    {
+        "state_fips": 49,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 78.7,
+        "count": 2573413
+    },
+    {
+        "state_fips": 49,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 1.2,
+        "count": 40058
+    },
+    {
+        "state_fips": 49,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.3,
+        "count": 41644
+    },
+    {
+        "state_fips": 49,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 2.5,
+        "count": 80438
+    },
+    {
+        "state_fips": 49,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 1.1,
+        "count": 36930
+    },
+    {
+        "state_fips": 49,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 6.7,
+        "count": 220120
+    },
+    {
+        "state_fips": 50,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 89.8,
+        "count": 577751
+    },
+    {
+        "state_fips": 50,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 1.4,
+        "count": 9034
+    },
+    {
+        "state_fips": 50,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.4,
+        "count": 2289
+    },
+    {
+        "state_fips": 50,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 1.8,
+        "count": 11549
+    },
+    {
+        "state_fips": 50,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 181
+    },
+    {
+        "state_fips": 50,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 0.8,
+        "count": 5247
+    },
+    {
+        "state_fips": 51,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 60.3,
+        "count": 5208856
+    },
+    {
+        "state_fips": 51,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 18.6,
+        "count": 1607581
+    },
+    {
+        "state_fips": 51,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.5,
+        "count": 40007
+    },
+    {
+        "state_fips": 51,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 7.1,
+        "count": 615436
+    },
+    {
+        "state_fips": 51,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 7156
+    },
+    {
+        "state_fips": 51,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 5.2,
+        "count": 446650
+    },
+    {
+        "state_fips": 53,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 66.6,
+        "count": 5130920
+    },
+    {
+        "state_fips": 53,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 4.0,
+        "count": 307565
+    },
+    {
+        "state_fips": 53,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.6,
+        "count": 121468
+    },
+    {
+        "state_fips": 53,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 9.5,
+        "count": 730596
+    },
+    {
+        "state_fips": 53,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.8,
+        "count": 64933
+    },
+    {
+        "state_fips": 53,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 6.7,
+        "count": 513140
+    },
+    {
+        "state_fips": 54,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 89.8,
+        "count": 1610749
+    },
+    {
+        "state_fips": 54,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 3.7,
+        "count": 65813
+    },
+    {
+        "state_fips": 54,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 0.2,
+        "count": 3706
+    },
+    {
+        "state_fips": 54,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 0.8,
+        "count": 15109
+    },
+    {
+        "state_fips": 54,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 476
+    },
+    {
+        "state_fips": 54,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 0.7,
+        "count": 12919
+    },
+    {
+        "state_fips": 55,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 80.4,
+        "count": 4737545
+    },
+    {
+        "state_fips": 55,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 6.4,
+        "count": 376256
+    },
+    {
+        "state_fips": 55,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 1.0,
+        "count": 60428
+    },
+    {
+        "state_fips": 55,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 3.0,
+        "count": 175702
+    },
+    {
+        "state_fips": 55,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.0,
+        "count": 2199
+    },
+    {
+        "state_fips": 55,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.1,
+        "count": 182054
+    },
+    {
+        "state_fips": 56,
+        "race_code": "0078",
+        "race_name": "White",
+        "per": 84.7,
+        "count": 488374
+    },
+    {
+        "state_fips": 56,
+        "race_code": "0079",
+        "race_name": "Black or African American",
+        "per": 0.9,
+        "count": 5232
+    },
+    {
+        "state_fips": 56,
+        "race_code": "0080",
+        "race_name": "American Indian and Alaska Native",
+        "per": 2.4,
+        "count": 13898
+    },
+    {
+        "state_fips": 56,
+        "race_code": "0081",
+        "race_name": "Asian",
+        "per": 0.9,
+        "count": 5212
+    },
+    {
+        "state_fips": 56,
+        "race_code": "0082",
+        "race_name": "Native Hawaiian and Other Pacific Islander",
+        "per": 0.1,
+        "count": 579
+    },
+    {
+        "state_fips": 56,
+        "race_code": "0083",
+        "race_name": "Some Other Race",
+        "per": 3.5,
+        "count": 20083
+    }
+]
