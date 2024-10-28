@@ -1,0 +1,111 @@
+/* styles.css */
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding-top: 5vh;
+    font-family: Rubik;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+    font-family: "Rubik Mono One";
+    font-size: 3em;
+    font-weight: 400;
+    width: 90vw;
+    margin-bottom: 0.1em;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+img {
+    margin-top: 0;
+}
+
+p#last-updated {
+    font-family: Rubik;
+    font-size: 1em;
+    color: #9a9a9a;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0.01em;
+}
+
+p#name {
+    color: #9a9a9a;
+    font-size: 1em;
+    margin-bottom: 0.1em;
+}
+
+select {
+    font-size: 1.5vw; /* Adjust font size of the dropdown */
+    margin-top: 0.5vh; /* Space above the dropdown */
+    background: transparent; /* Make the background transparent */
+    border: 1px solid #ccc; /* Add a border to the dropdown */
+    border-radius: 0.5em; /* Rounded corners for the dropdown */
+    direction: rtl;
+    text-align: left;
+}
+
+label {
+    font-size: 1.5em;
+    margin-top: 1vh;
+}
+
+#map {
+    height: 50vh;
+    width: 100%;
+    margin-top: 2vh;
+}
+
+#model-lst {
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.content-container {
+    display: flex;          /* Create a flex container */
+    width: 90vw;           /* Set a specific width for the container */
+    margin: 0 auto;        /* Center the container */
+}
+
+.table-of-contents {
+    flex: 0 0 200px;       /* Fixed width for the TOC */
+    margin-right: 20px;    /* Space between TOC and image */
+    text-align: left;      /* Left-align text in the TOC */
+}
+
+.image-container {
+    flex: 1;               /* Takes up remaining space */
+}
+
+.table-of-contents ul {
+    list-style-type: none; /* Removes bullets */
+    padding-left: 0;      /* Removes default padding */
+}
+
+.table-of-contents li {
+    margin: 10px 0;       /* Adds some spacing between items */
+}
+
+.table-of-contents a {
+    text-decoration: none; /* Removes underline from links */
+    color: black;         /* Link color */
+    text-align: left;     /* Left-align text for links */
+}
+
+.table-of-contents a:hover {
+    text-decoration: underline; /* Underline on hover for clarity */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
